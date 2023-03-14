@@ -1,0 +1,3 @@
+pystencils
+cv2
+shapefile
